@@ -1,2 +1,2 @@
 # hello_world
-Trying out Git
+Trying out GitHub
